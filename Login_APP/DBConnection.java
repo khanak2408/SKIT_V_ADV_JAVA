@@ -1,4 +1,4 @@
- import java.sql.*;
+import java.sql.*;
 class DBConnection{
     public static Connection getDatabaseConnection(){
         Connection con=null;
